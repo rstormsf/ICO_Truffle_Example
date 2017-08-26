@@ -1,14 +1,13 @@
 {
   "fonts/fabrik-bold-webfont.woff": "fonts/fabrik-bold-webfont.f139f65b5a3461e746856241cf3f9258.woff",
   "fonts/fontawesome-webfont.eot": "fonts/fontawesome-webfont.674f50d287a8c48dc19ba404d20fe713.eot",
-  "main.css": "static/css/main.3b04aa84.css",
-  "main.css.map": "static/css/main.3b04aa84.css.map",
-  "main.js": "static/js/main.69fbe702.js",
-  "main.js.map": "static/js/main.69fbe702.js.map",
+  "main.css": "static/css/main.399aee82.css",
+  "main.css.map": "static/css/main.399aee82.css.map",
+  "main.js": "static/js/main.9cf6f58b.js",
+  "main.js.map": "static/js/main.9cf6f58b.js.map",
   "static/media/fontawesome-webfont.eot?v=4.7.0": "static/media/fontawesome-webfont.674f50d2.eot",
   "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
   "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
-  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
-  "static/media/gif_metamask.gif": "static/media/gif_metamask.993617e3.gif"
+  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff"
 }
